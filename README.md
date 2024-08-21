@@ -81,4 +81,4 @@ If you want to run this library from within a Docker container:
 
 ## License
 
-MIT © [Andrej Gajdos](http://andrejgajdos.com)
+MIT
